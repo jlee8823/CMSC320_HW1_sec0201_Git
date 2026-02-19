@@ -9,3 +9,7 @@ Answer: You can apply data science to medical research fields where they need to
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merge keeps the branch as a fork where the changes occured and combines the new changes and existing main into a new stage. Rebase rewrites the branch to fit in a linear sequence of changes.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I hope to learn lots more about data science as I feel I do not know anything coming into the class.
