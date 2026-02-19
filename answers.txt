@@ -5,3 +5,7 @@ Answer: You can easily share and merge changes and code files for projects
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: You can apply data science to medical research fields where they need to collect and analyze data on many patients.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merge keeps the branch as a fork where the changes occured and combines the new changes and existing main into a new stage. Rebase rewrites the branch to fit in a linear sequence of changes.
